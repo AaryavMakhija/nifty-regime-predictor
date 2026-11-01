@@ -1,3 +1,5 @@
+NOW LIVE! - https://aaryavmakhija.github.io/nifty-regime-predictor/
+
 # Nifty 50 Market Regime & Volatility Predictor
 
 A single-file Python pipeline that downloads five years of Nifty 50 (`^NSEI`) daily data, engineers technical features, labels forward-looking market regimes, trains a gradient-boosted (or random-forest) classifier without lookahead bias, and forecasts the regime for the next trading session — delivered as an interactive HTML report.
